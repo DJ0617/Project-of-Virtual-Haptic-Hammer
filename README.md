@@ -9,3 +9,7 @@ Our Project Goal: Our team plans to design a virtual hammer based on the well-es
 # Project Update for Checkpoints 
 
 Checkpoint 1 (Wednesday, November 9): CAD Design for Virtual Hammer finished.
+
+Checkpoint 2 (Monday, November 14): Arduino control code for Virtual Hammer finished. 
+File_name: EN.530.691_finalvirtual_hammer_arduino_control_code.ino
+
